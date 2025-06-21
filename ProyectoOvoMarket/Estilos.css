@@ -107,3 +107,10 @@ tr:hover {
     transition: background-color 0.3s ease;
 }
 
+
+tr.separador td {
+    border-bottom: 3px solid #d4a017;
+    height: 10px;
+    padding: 0;
+}
+

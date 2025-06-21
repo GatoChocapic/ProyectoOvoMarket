@@ -6,7 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Huevos El Campo</title>
+  <title>Huevos OvO Market</title>
   <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
@@ -22,18 +22,26 @@
       </ul>
     </nav>
   </header>
-
   <main>
+      <!-- Caja de 100 huevos -->
     <section id="inicio" class="seccion">
       <h2>¡Huevos frescos directo a tu mesa!</h2>
       <p>Entrega rápida, calidad de campo y atención personalizada.</p>
     </section>
 
+
+
+
+      <!-- Caja de 100 huevos -->
     <section id="nosotros" class="seccion">
       <h2>Sobre Nosotros</h2>
       <p>Somos un pequeño emprendimiento familiar dedicado a ofrecer huevos frescos, naturales y de gallinas felices.</p>
     </section>
 
+
+
+
+      <!-- Caja de 100 huevos -->
             <section id="productos" class="seccion">
           <h2>Productos</h2>
           <div class="tabla-container">
@@ -96,13 +104,16 @@
           </div>
         </section>
 
-
+      <!-- Caja de 100 huevos -->
     <section id="pedidos" class="seccion">
       <h2>¿Cómo hacer tu pedido?</h2>
       <p>Envíanos un WhatsApp con tu nombre, dirección y pedido. Entregamos de lunes a viernes.</p>
       <a href="https://wa.me/56912345678" class="boton">Pedir por WhatsApp</a>
     </section>
 
+
+
+      <!-- Caja de 100 huevos -->
     <section id="contacto" class="seccion">
       <h2>Contacto</h2>
       <p>📞 +56 9 1234 5678</p>
